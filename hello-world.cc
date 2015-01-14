@@ -1,5 +1,6 @@
 #include <stdio.h>
+// create main code file for hello world
 
 main () {
-  printf "hello world\n";
+  printf "Hello hello world\n";
 }
